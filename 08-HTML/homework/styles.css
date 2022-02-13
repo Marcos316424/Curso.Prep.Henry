@@ -1,0 +1,34 @@
+h1{
+    color:rgb(255, 0, 0);
+    display: flex;
+    flex-direction: row;
+  }
+  img{
+    width: 400px;
+    
+  }
+  #thirdDiv{
+    width: 500px;  /*ancho*/
+    height: 600px; /*alto*/ 
+    background-color: black;
+    border: 10px solid lawngreen;
+    padding: 50px;
+    margin: 0 auto;
+        
+  }
+  #spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: red;
+    display: flex;
+    flex-direction: row;
+  }
+  body{ 
+  background: url("https://images4.alphacoders.com/958/thumb-1920-958080.jpg");
+  }
+  #divClass{
+    width: 600px;
+    margin: 0 auto;
+    color: red;
+    
+  }

@@ -1,0 +1,124 @@
+#caja {
+    width: 350px; /*ancho*/
+    height: 900px; /*alto*/
+    /*border: 1px solid #c3c3c3;*/
+    display: -webkit-flex;
+    -webkit-flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    
+}
+  
+#box {
+    width: 350px; /*ancho*/
+    height: 300px; /*alto*/
+    /*margin: 100 auto;*/
+    /*padding: 10px;*/
+}
+
+#primero{
+    color: whitesmoke;
+    width: auto;  /*ancho*/
+    height: 200px; /*alto*/ 
+    background-color: rgb(52, 53, 58);
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #c3c3c3;
+    
+}
+
+#titulo{
+    margin-top: 50px;
+    width: auto;  /*ancho*/
+    margin-left: 30px;  
+
+}
+
+#subtitulo{
+    margin-top: 70px;
+
+}
+#boxOrange{
+    margin: 0px;
+    /*text-align: center;*/
+    margin-top: 50px;
+    margin-left: 30px;
+    color: whitesmoke;
+    width: 100px;  /*ancho*/
+    height: 100px; /*alto*/
+    
+    
+}
+
+#yellow{
+    margin: 0px;
+    /*text-align: center;*/
+    margin-top: 50px;
+    margin-left: 30px;
+    color: whitesmoke;
+    width: 100px;  /*ancho*/
+    height: 100px; /*alto*/
+}
+
+#gold{
+    margin: 0px;
+    /*text-align: center;*/
+    margin-top: 50px;
+    margin-left: 30px;
+    color: whitesmoke;
+    width: 1000px;  /*ancho*/
+    height: 100px; /*alto*/
+}
+
+#cuerpo {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #c3c3c3;
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    display: flex;
+    flex-direction: row;
+}
+
+#box1 {
+    width: 700px; /*ancho*/
+    height: 3000px; /*alto*/
+    /*margin: 100 auto;*/
+    /*padding: 10px;*/
+}
+
+#primerCuerpo{
+    padding: 50px;
+
+}
+
+#parrafo{
+    width: 700px; /*ancho*/
+    font-size: 20px;
+    margin-left: 30px;
+    
+}
+#par{
+    margin: 20px;
+}
+#lista{
+    width: 900px; /*ancho*/
+    font-size: 20px;
+    margin-left: 30px;
+
+}
+
+#imagen{
+    width: 1px; /*ancho*/
+    height: 1px; /*alto*/
+    margin-top: 1px;
+    padding: 1px;
+    
+}
+#im{
+    width: 100px; /*ancho*/
+    height: 100px; /*alto*/
+    margin-top: 10px;
+    margin-left: 100px;
+    padding: 20px;
+}
